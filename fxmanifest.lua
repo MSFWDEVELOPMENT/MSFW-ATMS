@@ -20,7 +20,7 @@ files {
     'nui/images/logo1.png', 'nui/images/logo.png', 'nui/images/visa.png', 'nui/images/bank_card.png', 'nui/scripting/jquery-ui.css', 'nui/scripting/external/jquery/jquery.js', 'nui/scripting/jquery-ui.js', 'nui/style.css', 'nui/index.html', 'nui/msfw-atms.js'
 }
 
-dependency 'msfw-banking'
+dependencies 'msfw-banking'
 
 lua54 'yes'
 
