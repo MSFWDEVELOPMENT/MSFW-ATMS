@@ -1,10 +1,14 @@
 ## MSFW-ATMS
 
-## PREVIEW - https://imgur.com/a/UT3YnMC
+<h1>
+  
+ [PREVIEW](https://imgur.com/a/UT3YnMC) 
+  
+</h1>
 
-## JOIN OUR DISCORD FOR UPDATES AND SUPPORT
-# DISCORD - https://discord.gg/Kz9YBjPA2U
 
-# INSTALL MSFW-BANKING - https://github.com/MSFWDEVELOPMENT/MSFW-BANKING
+## JOIN OUR [DISCORD](https://discord.gg/Kz9YBjPA2U) FOR UPDATES AND SUPPORT
+
+# INSTALL [MSFW-BANKING](https://github.com/MSFWDEVELOPMENT/MSFW-BANKING)
 
 ## THANKS FOR USING OUR ATM SCRIPT!
